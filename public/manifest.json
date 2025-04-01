@@ -1,0 +1,21 @@
+{
+  "short_name": "Together",
+  "name": "Together - Couples App",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffe4ec",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffe4ec"
+}
